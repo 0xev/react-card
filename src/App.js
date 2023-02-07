@@ -10,7 +10,7 @@ function App() {
           <h1>Gabrielle Essence Eau De Parfum</h1>
           <p>
             A floral, solar and voluptuous interpretation composed by Olivier
-            Polge, Perfumer-Creator for the House of CHANEL.
+            Polge, Perfumer-Creator for the House of CHANEL
           </p>
           <div className="flex-container">
             <div className="discounted-price">$149.99</div>
